@@ -1,0 +1,13 @@
+pour le projet on utilise 
+
+SDL
+
+
+
+
+
+pour executer un fichier avec mip
+mpiexec -np 3 python3 nom_du_fichier.py    
+NB: 3 representes ne nombre de coeur 
+(on peut ajouter --oversubscribe  pour mettre une nombre de coeur superieur a ce qu'on a reelement )
+
